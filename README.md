@@ -1,5 +1,5 @@
 # heart_disease_prediction
-This project is about predicting the heart disease of a persoon based on the given data.
+This project is about predicting the heart disease of a person based on the given data.
 The dataset consist of 16 columns including target variable.
 We read the dataset and preprocess the data to handle missing values.
 We perform EDA(Exploratory Data Analysis) to inspect the data and understand the features and their behaviour.
